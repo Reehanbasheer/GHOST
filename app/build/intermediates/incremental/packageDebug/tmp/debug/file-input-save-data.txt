@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Fri Jul 20 22:50:33 IST 2018
+1.base=/Users/reehan/Reehan/Studio Project/GHOST/app/build/intermediates/transforms/dexMerger/debug/0
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=words.txt
+0.set=ASSET
+0.base=/Users/reehan/Reehan/Studio Project/GHOST/app/build/intermediates/assets/debug
+1.path=classes.dex

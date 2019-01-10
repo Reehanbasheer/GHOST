@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/reehan/Reehan/Studio Project/GHOST/app/src/main/assets"><file name="words.txt" path="/Users/reehan/Reehan/Studio Project/GHOST/app/src/main/assets/words.txt"/></source><source path="/Users/reehan/Reehan/Studio Project/GHOST/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/reehan/Reehan/Studio Project/GHOST/app/src/debug/assets"/></dataSet></merger>
